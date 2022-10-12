@@ -1,0 +1,3 @@
+GitHub is a hosting platform for git repositories. You can put your own Git repos 
+on gitHub and access them from anywhere and share them with people around the world.
+GitHub helps people share and collaborate on repos.
